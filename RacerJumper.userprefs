@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RacerJumper\Scripts\Controllers\GameManager.cs">
+    <Files>
+      <File FileName="Assets\RacerJumper\Scripts\Controllers\PlayerController.cs" Line="80" Column="1" />
+      <File FileName="Assets\RacerJumper\Scripts\Controllers\GuiManager.cs" Line="40" Column="26" />
+      <File FileName="Assets\RacerJumper\Scripts\Controllers\GameManager.cs" Line="89" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Samuel\Documents\Juegos\RacerJumper\Assets\RacerJumper\Scripts\Core\BaseHMov.cs" line="143" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
